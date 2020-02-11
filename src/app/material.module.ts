@@ -6,7 +6,7 @@ import {
   MatListModule,
   MatButtonModule,
   MatBadgeModule,
-  MatCardModule
+  MatCardModule,
 } from '@angular/material';
 
 @NgModule({
